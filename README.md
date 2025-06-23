@@ -1,12 +1,12 @@
+📦 Dataset
+
+The dataset used here was scraped by me from IMDb.
+You can find the scraping project here 👉 [chouflihal-imdb-scraper](https://github.com/salmaMlika/chouflihal-imdb-scraper)
 📊 Choufli Hal TV Show Data Analysis
 
 This project is a data analysis of one of my favorite TV shows: Choufli Hal 🇹🇳.
 ![Analysis Preview](Screenshot.png)
 
-📦 Dataset
-
-The dataset used here was scraped by me from IMDb.
-You can find the scraping project here 👉 chouflihal-imdb-scraper
 
 The dataset includes the following columns:
 
